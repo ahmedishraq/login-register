@@ -1,2 +1,5 @@
 # Simple Login and Register page
-## Direct Link  https://ahmedishraq.github.io/login-register/
+### [Have a look](https://ahmedishraq.github.io/login-register/)
+### Used Language
++ HTML
++CSS
